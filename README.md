@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anthDev
+- 👋 Hi, I’m Anth
 - 👀 I’m interested in Unix/Linux systems administration
 - 🌱 I’m currently learning toooo many things 
 - 💞️ I’m looking to collaborate on something I will like soon I hope

@@ -1,5 +1,5 @@
 #!/bin/bash
-# Meet Anth, your human Linux distro! 🐧
+# Meet Anth 🐧
 
 echo "👋 Hello, world!"
 USER="Anth"
